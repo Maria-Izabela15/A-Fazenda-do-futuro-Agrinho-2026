@@ -110,11 +110,8 @@ Apresentar o modelo de fazenda do futuro, showcasing tecnologias como IoT, Drone
    git clone https://github.com/Maria-Izabela15/A-Fazenda-do-futuro-Agrinho-2026.git
 
 
-2. Acesse a pasta do projeto:
+2. Acesse a pasta do projeto.
 
-```bash
-cd fazenda-do-futuro
-```
 
 3. Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como **Live Server** (VS Code).
 
