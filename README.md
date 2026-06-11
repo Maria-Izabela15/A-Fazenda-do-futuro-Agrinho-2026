@@ -107,7 +107,7 @@ Apresentar o modelo de fazenda do futuro, showcasing tecnologias como IoT, Drone
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/fazenda-do-futuro.git
+   git clone https://github.com/Maria-Izabela15/A-Fazenda-do-futuro-Agrinho-2026.git
 
 
 2. Acesse a pasta do projeto:
